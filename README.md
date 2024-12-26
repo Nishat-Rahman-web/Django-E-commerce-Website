@@ -26,16 +26,19 @@ Example:
 A product_list view retrieves all products from the database and renders them in a template.
 
 Why Django is Ideal for MVC (MTV) Architecture :
+
 •	Scalability: Django's modular structure allows you to easily scale the application as the project grows.
 •	Security: Built-in protections against vulnerabilities like SQL injection, XSS, and CSRF ensure a secure application.
 •	Ease of Development: Django’s ORM simplifies database interactions, while its templating engine allows for clean and organized HTML rendering.
 •	Built-in Features: Django includes robust user authentication, URL routing, and testing tools.
 
 Features of the Django E-commerce Website :
+
 •	Product Management: Add, update, delete, and display products with categories and filters.
 •	User Authentication: Secure login, registration, and account management using Django’s built-in authentication system.
 •	Order Processing: Handle shopping cart functionality, order placement, and integration with payment gateways.
 
 Conclusion :
+
 The Django E-commerce Website exemplifies the MVC (MTV) architectural pattern by effectively handling data through models, managing user interaction through views, and presenting information through templates. This structure ensures a scalable, maintainable, and user-friendly web application.
 
