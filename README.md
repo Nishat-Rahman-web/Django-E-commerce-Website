@@ -1,5 +1,7 @@
 Django E-commerce Website: A Perfect Python (Django) MVC Project
+
 The Django E-commerce Website is an excellent example of implementing the Model-View-Controller (MVC) architectural pattern, often referred to as MTV (Model-Template-View) in Django. This project includes core functionalities such as product management, user authentication, and order processing, making it a robust and scalable web application.
+
 
 Key Components of the Django E-commerce Website :
 1. Model (M):
